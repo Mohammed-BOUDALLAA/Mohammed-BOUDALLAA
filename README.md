@@ -25,25 +25,34 @@ Building reliable backend systems, RESTful APIs, and data-intensive applications
 
 ## Tech Stack
 
-**Backend**
-- Java 17/21, Spring Boot, Spring Security
-- Spring Data JPA, Hibernate, REST APIs
-- Microservices, Python, FastAPI
 
-**Databases & Messaging**
-- MySQL, PostgreSQL, Redis
-- Apache Kafka, DuckDB
+<h2>Tech Stack</h2>
 
-**Frontend**
-- Angular, TypeScript
+<h3>Backend Development</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,fastapi,maven&theme=dark" alt="Backend technologies" />
+</p>
 
-**DevOps & Tools**
-- Docker, Git, GitHub Actions
-- Maven, IntelliJ IDEA, Linux
+<h3>Databases & Messaging</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,kafka&theme=dark" alt="Databases and messaging" />
+</p>
 
-**Data & AI**
-- Apache Spark, dbt, Pandas
-- Machine Learning, XGBoost
+<h3>Frontend Development</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,tailwind,html,css&theme=dark" alt="Frontend technologies" />
+</p>
+
+<h3>DevOps & Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,idea&theme=dark" alt="DevOps and development tools" />
+</p>
+
+<h3>Data Engineering & AI</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn&theme=dark" alt="Data and AI technologies" />
+</p>
+
 
 
 ## Engineering Interests
