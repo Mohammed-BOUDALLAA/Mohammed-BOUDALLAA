@@ -53,6 +53,31 @@ Building reliable backend systems, RESTful APIs, and data-intensive applications
 </p>
 
 
+<h2>GitHub Stats</h2>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mohammed-BOUDALLAA&show_icons=true&theme=github_dark&hide_border=true&count_private=false"
+    height="165"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-BOUDALLAA&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    height="165"
+    alt="Most Used Languages"
+  />
+
+  <br/>
+
+  <img
+    src="https://streak-stats.demolab.com?user=Mohammed-BOUDALLAA&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+
+</div>
+
 
 ## Engineering Interests
 
