@@ -23,7 +23,6 @@ Building reliable backend systems, RESTful APIs, and data-intensive applications
 - Interested in distributed systems, scalable APIs, and software architecture.
 - Experienced with projects involving banking, fraud detection, and data engineering.
 
-## Tech Stack
 
 
 <h2>Tech Stack</h2>
