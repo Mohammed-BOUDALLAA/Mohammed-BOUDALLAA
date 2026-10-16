@@ -45,22 +45,6 @@ Building reliable backend systems, RESTful APIs, and data-intensive applications
 - Apache Spark, dbt, Pandas
 - Machine Learning, XGBoost
 
-## Featured Projects
-
-### Adaptive Fraud Detection Platform
-Machine learning-based fraud detection with real-time event processing.
-
-**Stack:** Python, FastAPI, Kafka, Redis, XGBoost
-
-### Full-Stack Expense Tracker
-Expense management application with RESTful backend and Angular frontend.
-
-**Stack:** Java 17, Spring Boot, Angular, MySQL
-
-### Procurement Lakehouse
-Data engineering pipeline with ingestion, transformation, quality checks, and orchestration.
-
-**Stack:** Python, dbt, DuckDB, Prefect, GitHub Actions
 
 ## Engineering Interests
 
