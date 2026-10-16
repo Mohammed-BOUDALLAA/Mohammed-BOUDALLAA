@@ -25,16 +25,29 @@ Building reliable backend systems, RESTful APIs, and data-intensive applications
 
 
 
-<h2>Tech Stack</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,fastapi,maven&theme=dark" alt="Backend technologies" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,kafka&theme=dark" alt="Databases and messaging" />
-  <img src="https://skillicons.dev/icons?i=angular,ts,tailwind,html,css&theme=dark" alt="Frontend technologies" />
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,idea&theme=dark" alt="DevOps and development tools" />
-  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn&theme=dark" alt="Data and AI technologies" />
+<h2 align="center">Tech Stack</h2>
 
-</p>
+<div align="center">
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,fastapi,maven&theme=dark" alt="Backend Technologies" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,kafka&theme=dark" alt="Databases and Messaging" />
+  </p>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=angular,ts,tailwind,html,css&theme=dark" alt="Frontend Technologies" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,idea&theme=dark" alt="DevOps and Tools" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn&theme=dark" alt="Data and AI Technologies" />
+  </p>
+
+  <p>
+    Backend-focused engineer with hands-on experience in Java, Spring Boot,
+    REST APIs, distributed systems, and data-intensive applications.
+    I also work with Angular, Python, and modern DevOps tooling.
+  </p>
+
+</div>
 
 
 <h2>GitHub Stats</h2>
