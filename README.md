@@ -29,22 +29,11 @@ Building reliable backend systems, RESTful APIs, and data-intensive applications
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,fastapi,maven&theme=dark" alt="Backend technologies" />
-</p>
-
-<p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,kafka&theme=dark" alt="Databases and messaging" />
-</p>
-
-<p>
   <img src="https://skillicons.dev/icons?i=angular,ts,tailwind,html,css&theme=dark" alt="Frontend technologies" />
-</p>
-
-<p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,idea&theme=dark" alt="DevOps and development tools" />
-</p>
-
-<p>
   <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn&theme=dark" alt="Data and AI technologies" />
+
 </p>
 
 
