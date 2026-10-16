@@ -1,17 +1,76 @@
-## Hi there 👋
-Software Engineer | Java & Spring Boot | REST APIs, Microservices & Distributed Systems | Oracle Certified
 
-<!--
-**Mohammed-BOUDALLAA/Mohammed-BOUDALLAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Mohammed BOUDALLAA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software Engineer | Java & Spring Boot
+
+**Oracle Certified Professional — Java SE 17 Developer**
+
+Building reliable backend systems, RESTful APIs, and data-intensive applications.
+
+[LinkedIn](https://www.linkedin.com/in/boudallaa-javadev/) • [GitHub](https://github.com/Mohammed-BOUDALLAA)
+
+</div>
+
+---
+
+## About Me
+
+- Software Engineer focused on **Java, Spring Boot, and Backend Development**.
+- Master's degree in **Big Data & Cloud Computing** from ENSET Mohammedia.
+- Oracle Certified Professional: **Java SE 17 Developer**.
+- Interested in distributed systems, scalable APIs, and software architecture.
+- Experienced with projects involving banking, fraud detection, and data engineering.
+
+## Tech Stack
+
+**Backend**
+- Java 17/21, Spring Boot, Spring Security
+- Spring Data JPA, Hibernate, REST APIs
+- Microservices, Python, FastAPI
+
+**Databases & Messaging**
+- MySQL, PostgreSQL, Redis
+- Apache Kafka, DuckDB
+
+**Frontend**
+- Angular, TypeScript
+
+**DevOps & Tools**
+- Docker, Git, GitHub Actions
+- Maven, IntelliJ IDEA, Linux
+
+**Data & AI**
+- Apache Spark, dbt, Pandas
+- Machine Learning, XGBoost
+
+## Featured Projects
+
+### Adaptive Fraud Detection Platform
+Machine learning-based fraud detection with real-time event processing.
+
+**Stack:** Python, FastAPI, Kafka, Redis, XGBoost
+
+### Full-Stack Expense Tracker
+Expense management application with RESTful backend and Angular frontend.
+
+**Stack:** Java 17, Spring Boot, Angular, MySQL
+
+### Procurement Lakehouse
+Data engineering pipeline with ingestion, transformation, quality checks, and orchestration.
+
+**Stack:** Python, dbt, DuckDB, Prefect, GitHub Actions
+
+## Engineering Interests
+
+- Backend Architecture & API Design
+- Distributed Systems & Microservices
+- Database Performance & Optimization
+- CI/CD & Automated Testing
+- AI-Driven Applications
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/boudallaa-javadev/) | [GitHub](https://github.com/Mohammed-BOUDALLAA)
+
